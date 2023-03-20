@@ -189,7 +189,7 @@ export default function PDFMerger() {
   }
 
   return (
-    <div className="flex flex-col justify-center items-center text-black dark:text-white">
+    <div className="flex flex-col justify-center items-center text-white">
       <div className="flex flex-row items-center space-x-2 sm:space-x-4 justify-center">
         <div className="w-[40px] sm:w-[75px] h-[40px] sm:h-[75px] relative">
           <Image src={"/icon.png"} alt="logo" fill />
