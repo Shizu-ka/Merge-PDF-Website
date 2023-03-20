@@ -8,7 +8,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>QuickPDF - Merge PDFs and Images</title>
+        <title>ShizPDF - Merge PDFs and Images</title>
         <meta
           name="description"
           content="Introducing our serverless website for quick and secure merging of images and PDFs. Our process is quick and efficient and your files never leave your device, ensuring maximum security and privacy."
