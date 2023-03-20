@@ -195,7 +195,7 @@ export default function PDFMerger() {
           <Image src={"/icon.png"} alt="logo" fill />
         </div>
         <h1 className="sm:text-8xl text-5xl font-extrabold text-center">
-          QuickPDF
+          ShizPDF
         </h1>
       </div>
       <p className="sm:text-2xl text-lg text-center mt-4 mb-8">
