@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Website
+[link to website](https://pdf.shizuka.my.id/)
+
+![Screenshot 2023-03-20 142432](https://user-images.githubusercontent.com/58659139/226273799-ebd2bc62-5e50-4d6e-9017-9274fdc05aed.png)
+
 ## Getting Started
 
 First, run the development server:
@@ -26,10 +31,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Website
-[link to website](https://pdf.shizuka.my.id/)
-
-![Screenshot 2023-03-20 142432](https://user-images.githubusercontent.com/58659139/226273799-ebd2bc62-5e50-4d6e-9017-9274fdc05aed.png)
-
-
