@@ -51,7 +51,7 @@ export function Navbar() {
           id="install-btn-component"
           className="flex flex-row space-x-4 justify-center items-center sm:text-lg text-md"
         >
-          <p className="text-black dark:text-white">Install</p>
+          <p className="text-white">Install</p>
           <div className="text-red-600">
             <FontAwesomeIcon icon={faDownload} />
           </div>
