@@ -7,7 +7,7 @@ export default function Document() {
         <link rel="manifest" href="/manifest.json" />
         <link rel="icon" href="/icon.png" />
         <link rel="apple-touch-icon" href="/icon.png" />
-        <meta name="theme-color" content="#dc2626" />
+        <meta name="theme-color" content="#152C36" />
         <meta
           name="description"
           content="Introducing our serverless website for quick and secure merging of images and PDFs. Our process is quick and efficient and your files never leave your device, ensuring maximum security and privacy."
