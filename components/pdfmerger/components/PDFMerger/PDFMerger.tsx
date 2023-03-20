@@ -199,7 +199,10 @@ export default function PDFMerger() {
         </h1>
       </div>
       <p className="sm:text-2xl text-lg text-center mt-4 mb-8">
-        Your Privacy is Secure, Because ShizPDF is Serverless
+        Merge PDFs and Images quickly and securely
+      </p>
+      <p className="sm:text-2xl text-md text-center mt-4 mb-8">
+        Your Privacy is Secure, Because ShizPDF is Serverless      
       </p>
       <div className="flex flex-col justify-center items-center w-[320px] sm:w-[560px]">
         <button className="relative w-full">
