@@ -8,5 +8,5 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Poppins", sans-serif;
-  background-color: #152C36;
+  background-color: #152C36 !important;
 }
