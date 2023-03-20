@@ -3,7 +3,7 @@ import Image from "next/image";
 export function Footer() {
   return (
     <a
-      href="http://shizuka.my.id/"
+      href="http://shizuka.my.id/" target="_blank"
       className="flex flex-row justify-center items-center lg:space-x-4 space-x-2"
     >
       <p className="lg:text-lg text-xs">Thanks to debbyalmadea | © Shizuka 2023</p>
