@@ -11,3 +11,6 @@ body {
   background-color: #152C36 !important;
   color:white !important;
 }
+option {
+  color: black;
+}
